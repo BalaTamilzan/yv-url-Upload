@@ -14,7 +14,6 @@ You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
 Deploy
 
-Watch our Video for Create own Bot - point_right https://youtu.be/QkAkSLBgoYw
 
 The Hard Way
 
@@ -30,21 +29,21 @@ cp sample_config.py config.py
 
 python bot.py
 
-Our Telegram Channel and Group
+Our Telegram Channel and Group and app
 
-TG Bots Updates
+url_uploder_yv
 
-InFoTel Paid Apps
+url_uploder_yv_group
 
-InFoTel Group
+yv Movie App
 
-Credits, and Thanks to
+Credits, and Thanks to @selfiebd
 
-@SpEcHlDe for his AnyDLBot
+@url_uploder_yv , @url_uploder_yv_group for his AnyDLBot
 
 Dan Tès for his Pyrogram Library
 
-Yoily for his UploaditBot
+@yvadmin for his UploaditBot
 
 For FeedBack and Suggestions, please feel free to say in InFoTel Group
 
