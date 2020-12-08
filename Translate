@@ -8,9 +8,9 @@ This is a Telegram URL Upload Bot!
 
 /help for more details..
 
-Support Group : @url_uploder_yv_group
+Support Group : @yv_botlist
 
-© @url_uploder_yv , @yedravandiya & @groupyedravandiya & @sup_yvm"""
+© @yv_bots , @yedravandiya & @groupyedravandiya & @sup_yvm"""
 
     RENAME_403_ERR = "Sorry Dear. You are not permitted to rename this file."
 
@@ -64,7 +64,7 @@ URL | filename | username | password"""
 
 Telegram ID: <code>{}</code>
 
-Plan name: Free Cloned User
+Plan name: Free User
 
 Expires on: 31/12/2020"""
 
@@ -141,14 +141,14 @@ Support Group : @url_uploder_yv_group
 
 You can use /rename command after receiving file to rename it with custom thumbnail support."""
 
-    CANCEL_STR = "Process Cancelled"
+    CANCEL_STR = "Process Cancelled❗"
 
     ZIP_UPLOADED_STR = "Uploaded {} files in {} seconds"
 
     FREE_USER_LIMIT_Q_SZE = """Cannot Process.
 
-Free users only 1 request per 30 minutes.
+Free users only 1 request per 5 minutes.
 
-/upgrade or Try 1800 seconds later."""6
+/upgrade or Try 300 seconds later."""6
 
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file.Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
