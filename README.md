@@ -4,7 +4,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 My Features:
 
-point_right All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
+
 
 point_right Upload as file from any HTTP link
 
