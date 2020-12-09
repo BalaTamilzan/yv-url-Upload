@@ -14,7 +14,7 @@ The Easy Way
 
 You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-https://heroku.com/deploy?template=https://github.com/TGExplore/TG-URL-Uploader/tree/master
+https://heroku.com/deploy?template=https://github.com/
 
 The Hard Way
 
