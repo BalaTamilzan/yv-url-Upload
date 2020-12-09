@@ -14,7 +14,7 @@ The Easy Way
 
 You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-https://heroku.com/deploy?template=https://github.com/
+content://0@com.android.chrome.FileProvider/images/screenshot/1607477159733335604980.png
 
 The Hard Way
 
